@@ -4,9 +4,9 @@ description: All about Linear Regression and its algorithm from Interview Point 
 
 # Linear Regression
 
-### What is Linear Regression? 
+### What is Linear Regression?&#x20;
 
-Linear Regression is a Supervised ML algorithm that selects the best fit line between dependent and independent variables 
+Linear Regression is a Supervised ML algorithm that selects the best fit line between dependent and independent variables&#x20;
 
 $$
 y=ax+b+c ;  yi= Actual ; y=predicted
@@ -27,7 +27,7 @@ You can check out the scratch demonstration of this algorithm [here](https://git
 * Independence: Observations are independent of each other.
 * Normality: For any fixed value of X, Y is normally distributed.
 
-### Advantages of Linear Regression 
+### Advantages of Linear Regression&#x20;
 
 * Linear regression performs exceptionally well for linearly separable data
 * Easy to implement and train the model

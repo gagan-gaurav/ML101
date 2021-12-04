@@ -4,8 +4,8 @@ description: All About Support Vector Machines.
 
 # SVM
 
-* Data is mapped to a new high-dimensional representation where the decision boundary is a hyperplane. 
-* A Good Decision boundary maximizes the distance between the hyperplane and the closest data point from each class. 
+* Data is mapped to a new high-dimensional representation where the decision boundary is a hyperplane.&#x20;
+* A Good Decision boundary maximizes the distance between the hyperplane and the closest data point from each class.&#x20;
 * Kernel Function:- Maps two data points in your initial space to the distance between these points in your largest representation space. Some examples of kernel Function include Polynomial Kernel, RBF kernel, Sigmoid Kernel.
 * The Vectors on the decision boundary are called the support vectors.
 
@@ -27,7 +27,7 @@ Head over to this [Link](https://github.com/RheagalFire/Scratch-Implementations/
 
 Minimize ||W|| and yi(wxi-b)>=1 for i\<n
 
-### Soft Margin SVM 
+### Soft Margin SVM&#x20;
 
 ![](<.gitbook/assets/image (6).png>)
 

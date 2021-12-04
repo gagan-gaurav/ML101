@@ -12,11 +12,11 @@ Also, Read this [Link](https://www.ritchieng.com/logistic-regression/) for Advan
 
 Check out the Scratch Implementation [here](https://github.com/RheagalFire/Scratch-Implementations/blob/master/Logistic%20Regression.ipynb).
 
-### ** What Are the Basic Assumption?**
+### &#x20;**What Are the Basic Assumption?**
 
 1. Linear Relation between independent features and the log-odds.
 
-### Advantages 
+### Advantages&#x20;
 
 1. Logistic Regression is very easy to understand.
 2. It requires less training.

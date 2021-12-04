@@ -22,3 +22,4 @@
   * [Cron Jobs](miscellaneous/cron-jobs.md)
   * [All about Docker](miscellaneous/all-about-docker/README.md)
     * [Cloud](miscellaneous/all-about-docker/cloud.md)
+* [How does Regularization decrease overfitting?](how-does-regularization-decrease-overfitting.md)
