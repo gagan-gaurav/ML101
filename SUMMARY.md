@@ -11,6 +11,7 @@
 * [Evaluation Metrics](evaluation-metrics.md)
 * [All the Sql for a Data Scientist](all-the-sql-for-a-data-scientist/README.md)
   * [Database Design](all-the-sql-for-a-data-scientist/database-design.md)
+  * [All about Keys](all-the-sql-for-a-data-scientist/all-about-keys.md)
 * [Importance of Features in a ML model](importance-of-features-in-a-ml-model.md)
 * [Natural Language Processing](natural-language-processing.md)
 * [Journey to neural networks](journey-to-neural-networks.md)
